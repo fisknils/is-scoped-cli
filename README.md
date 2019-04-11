@@ -9,6 +9,6 @@ cli wrapper for node module is-scoped
 
 ```
 $ is-scoped-cli
-package name: @andersatbaca/is-scoped-cli
-is-scoped: true
+> package name: @andersatbaca/is-scoped-cli
+> is-scoped: true
 ```
