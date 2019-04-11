@@ -1,2 +1,2 @@
 # is-scoped-cli
-cli wrapper for node module is-scoped 
+cli wrapper for node module is-scoped
