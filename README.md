@@ -5,8 +5,9 @@ cli wrapper for node module is-scoped
 > npm -g i @andersatbaca/is-scoped-cli
   
 ## Using
-  While in the same folder as package.json, do
-
+  While in the same folder as package.json, run `is-scoped-cli` from your terminal.
+  
+### Example
 ```
 $ is-scoped-cli
 > package name: @andersatbaca/is-scoped-cli
