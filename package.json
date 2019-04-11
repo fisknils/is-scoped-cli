@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "is-scoped": "^2.1.0"
+    "is-scoped": "^2.1.0",
+    "read-pkg-up": "^5.0.0"
   },
   "bin": "./index.js"
 }
