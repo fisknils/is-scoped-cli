@@ -7,9 +7,8 @@ cli wrapper for node module is-scoped
 ## Using
   While in the same folder as package.json, run `is-scoped-cli` from your terminal.
   
-### Example
+### Example output
 ```
-$ is-scoped-cli
-> package name: @andersatbaca/is-scoped-cli
-> is-scoped: true
+package name: @andersatbaca/is-scoped-cli
+is-scoped: true
 ```
